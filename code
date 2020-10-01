@@ -18,3 +18,5 @@ distance= duration*0.034/2;
 Serial.print("Distance: ");
 Serial.println(distance);
 }
+
+//this code helps to get distance output from ultrasound sensor.
